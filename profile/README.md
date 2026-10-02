@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/bingo-map/bingo-map/main/src/main/resources/static/images/banner_illustration.png" alt="BinGo Map" width="760">
+<img src="../image/banner.png" alt="BinGo Map" width="760">
 
 <br><br>
 
